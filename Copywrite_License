@@ -1,0 +1,71 @@
+Certainly! Below is a copywriting license that you can include in your GitHub repository for the project under the name of Colorado Space Grant Consortium, who are the organizers of the 'Great Lunar Expedition Mission'. This license will help ensure that the code is properly attributed and protect against unauthorized use.
+
+```markdown
+# License
+
+## Colorado Space Grant Consortium - Great Lunar Expedition Mission
+
+© [Year] Colorado Space Grant Consortium
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+2. The Software shall be used for Good, not Evil.
+3. Proper attribution must be given to the Colorado Space Grant Consortium and the Great Lunar Expedition Mission in any derived works or publications that utilize the Software or its components.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Project Description
+
+This project includes a series of scripts and codes developed to detect and study meteor impacts, seismic activities, temperature variations, and other related parameters on the lunar surface, specifically targeting the lunar south pole where the LunaSat will be deployed as part of the Great Lunar Expedition Mission.
+
+## Acknowledgments
+
+Special thanks to the Colorado Space Grant Consortium for their support and organization of the Great Lunar Expedition Mission. The provided software and tools are a product of collaborative efforts aimed at enhancing our understanding of the Moon's environment and conditions.
+
+## Contributions
+
+Contributions to this project are welcome. By submitting a pull request, you agree that your contributions will be licensed under the same license as this project.
+
+## Contact Information
+
+For any inquiries or further information, please contact:
+
+Colorado Space Grant Consortium  
+[Contact Email]  
+[Website]
+
+[Year]
+```
+
+### How to Add the License to Your GitHub Repository
+
+1. **Create a `LICENSE` File**: 
+   - In the root of your GitHub repository, create a new file named `LICENSE`.
+
+2. **Paste the License Text**: 
+   - Copy and paste the above license text into the `LICENSE` file.
+
+3. **Update the Year and Contact Information**: 
+   - Replace `[Year]` with the current year.
+   - Replace `[Contact Email]` and `[Website]` with the relevant contact information for the Colorado Space Grant Consortium.
+
+4. **Commit the File**: 
+   - Commit the `LICENSE` file to your repository with a commit message like "Add project license."
+
+### Example of GitHub Repository Structure
+
+```
+/
+├── LICENSE
+├── README.md
+├── data/
+│   └── recorded_temperature_data.csv
+├── scripts/
+│   ├── simulate_temperature_variation.py
+│   └── analyze_seismic_activity.py
+└── results/
+    └── temperature_variation_plot.png
+```
+
+By following these steps, you ensure that your code is properly licensed and protected, with clear guidelines for usage and attribution.
